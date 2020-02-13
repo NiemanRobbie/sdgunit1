@@ -1,0 +1,11 @@
+/Users/robertnieman/sdgunit1/All Card on Deck/obj/Debug/netcoreapp3.1/All Card on Deck.csprojAssemblyReference.cache
+/Users/robertnieman/sdgunit1/All Card on Deck/obj/Debug/netcoreapp3.1/All Card on Deck.AssemblyInfoInputs.cache
+/Users/robertnieman/sdgunit1/All Card on Deck/obj/Debug/netcoreapp3.1/All Card on Deck.AssemblyInfo.cs
+/Users/robertnieman/sdgunit1/All Card on Deck/bin/Debug/netcoreapp3.1/All Card on Deck
+/Users/robertnieman/sdgunit1/All Card on Deck/bin/Debug/netcoreapp3.1/All Card on Deck.deps.json
+/Users/robertnieman/sdgunit1/All Card on Deck/bin/Debug/netcoreapp3.1/All Card on Deck.runtimeconfig.json
+/Users/robertnieman/sdgunit1/All Card on Deck/bin/Debug/netcoreapp3.1/All Card on Deck.runtimeconfig.dev.json
+/Users/robertnieman/sdgunit1/All Card on Deck/bin/Debug/netcoreapp3.1/All Card on Deck.dll
+/Users/robertnieman/sdgunit1/All Card on Deck/bin/Debug/netcoreapp3.1/All Card on Deck.pdb
+/Users/robertnieman/sdgunit1/All Card on Deck/obj/Debug/netcoreapp3.1/All Card on Deck.dll
+/Users/robertnieman/sdgunit1/All Card on Deck/obj/Debug/netcoreapp3.1/All Card on Deck.pdb
