@@ -1,0 +1,11 @@
+/Users/robertnieman/sdgunit1/blackjackgame/bin/Debug/netcoreapp3.1/blackjackgame
+/Users/robertnieman/sdgunit1/blackjackgame/bin/Debug/netcoreapp3.1/blackjackgame.deps.json
+/Users/robertnieman/sdgunit1/blackjackgame/bin/Debug/netcoreapp3.1/blackjackgame.runtimeconfig.json
+/Users/robertnieman/sdgunit1/blackjackgame/bin/Debug/netcoreapp3.1/blackjackgame.runtimeconfig.dev.json
+/Users/robertnieman/sdgunit1/blackjackgame/bin/Debug/netcoreapp3.1/blackjackgame.dll
+/Users/robertnieman/sdgunit1/blackjackgame/bin/Debug/netcoreapp3.1/blackjackgame.pdb
+/Users/robertnieman/sdgunit1/blackjackgame/obj/Debug/netcoreapp3.1/blackjackgame.csprojAssemblyReference.cache
+/Users/robertnieman/sdgunit1/blackjackgame/obj/Debug/netcoreapp3.1/blackjackgame.AssemblyInfoInputs.cache
+/Users/robertnieman/sdgunit1/blackjackgame/obj/Debug/netcoreapp3.1/blackjackgame.AssemblyInfo.cs
+/Users/robertnieman/sdgunit1/blackjackgame/obj/Debug/netcoreapp3.1/blackjackgame.dll
+/Users/robertnieman/sdgunit1/blackjackgame/obj/Debug/netcoreapp3.1/blackjackgame.pdb
